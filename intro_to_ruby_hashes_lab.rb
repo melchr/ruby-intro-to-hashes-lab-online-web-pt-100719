@@ -1,9 +1,9 @@
 def new_hash
-
+new_hash = {}
+return new_hash
 end
 
 def actor
- new_hash = {}
  actor = {
    name: "Dwayne The Rock Johnson"
  }
